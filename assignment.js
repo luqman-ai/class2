@@ -1,4 +1,5 @@
 "use strict";
+// Please check assignment Folder
 // aera and of rectangle
 var lenght = 23;
 var widht = 12;

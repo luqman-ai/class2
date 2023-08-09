@@ -5,6 +5,6 @@ if(price>100){
     console.log(`your price of product after 10% discount  ${sPrice}`);
 }
 else{
-    var dPrice=price*((100-5)/100)
-console.log(`your price of product after 5% discount  ${dPrice}`)
+    var sPrice=price*((100-5)/100)
+console.log(`your price of product after 5% discount  ${sPrice}`)
 }

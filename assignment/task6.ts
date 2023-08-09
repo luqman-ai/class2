@@ -1,3 +1,4 @@
+// Devlope a programe that take temperature and check it.
 var temperature_C:number=18;
 if(temperature_C<=20){
     console.log("Winter has come  user to wear Warm clothes")

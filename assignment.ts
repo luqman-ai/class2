@@ -1,3 +1,4 @@
+// Please check assignment Folder
 // aera and of rectangle
 var lenght:number=23;
 var widht:number=12;

@@ -1,3 +1,4 @@
+// write a programe that determine the category of user provide age
 var age:number=27;
 if (age<=12){
     console.log("Child");
